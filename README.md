@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <!--
-**Devesh-coder/Devesh-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**codingmickey/codingmickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,24 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi, I am Devesh
+
+<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h3 align="center">Am trying to be a full stack developer from India..</h3>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devesh-agarwal-link8421/) 
+<img alt="GIF" align="right" height="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devesh-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://twitter.com/codingmickey" target="blank"><img src="https://img.shields.io/twitter/follow/codingmickey?logo=twitter&style=for-the-badge" alt="codingmickey" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devesh-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **what that I also don't know ssly**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👯 I’m looking to collaborate on **Full stack MERN projects**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **any doubts _hehe_**
+
+- 📫 How to reach me **kjmickey003@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing](https://drive.google.com/file/d/1o7hYsYs0xdotfIFIl7cHnhqM2BbotPK3/view?usp=sharing)
+
+- ⚡ Fun fact **I can solve a Rubik's Cube 🎉 and leraning to play Piano 🎹**
+
+- ⌨️ Like typing, **avg wpm: 90**
+
+<hr />
+<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
+
+<div align="center">
+<br />
+<h3>Connect with me:</h3>
+<p>
+<a href="https://twitter.com/codingmickey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kartik.jolapara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/codingmickey" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="mickey_03" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/codingmickey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codingmickey" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/codingmickey" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
+</p>
+</div>
+
+<br /><br /><br />
+<hr />
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
+
+<!-- <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<hr />
+<!--
+[![Kartis's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula)](https://github.com/codingmickey)
+-->
+<div align="center">
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula" />
+</a>
+<br /><br />
+<a href="https://github.com/codingmickey">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" />
+</a>
+</div>
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" alt="codingmickey" /></p>
+-->
+
+<hr />
+
+[![@codingmickey's Holopin board](https://holopin.me/codingmickey)](https://holopin.io/@codingmickey)
