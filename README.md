@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/codingmickey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codingmickey" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/codingmickey" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
 </p>
-</div>
+
 
 <br /><br /><br />
 
@@ -33,5 +33,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
