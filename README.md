@@ -16,7 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="typing" align="right" height="200" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif" />
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
