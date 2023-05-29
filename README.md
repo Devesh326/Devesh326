@@ -23,13 +23,13 @@
   
   <br /><br />
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devesh-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devesh-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=deveshagarwal326&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=deveshagarwal326&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshagarwal326&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <br /><br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devesh-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=deveshagarwal326&theme=radical&no-frame=true&no-bg=false&margin-w=4)
   <br /><br />
 
 ### ✍️ Random Dev Quote
