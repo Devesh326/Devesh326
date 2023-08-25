@@ -18,7 +18,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=springboot,java,docker,kubernetes,golang,kafka,html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,docker,kubernetes,golang,kafka,html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,redis,redux,ts&perline=7)](https://skillicons.dev)
 
   
   <br /><br />
