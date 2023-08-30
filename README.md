@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Devesh</h1>
-<h3 align="center">Trying to code efficiently</h3>
+<h3 align="center"> <img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"> I am happy you stopped by to my Git Cave and I hope you enjoy my work. <img src="https://media0.giphy.com/media/kf3EjrAsKp3P9bhYHG/giphy.gif?cid=ecf05e4760awfs511433qtbc55qsshyxkitr64ise44egb6u&rid=giphy.gif&ct=s" width="15"></h3>
 
 <div align="center">
 <br />
