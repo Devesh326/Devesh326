@@ -9,8 +9,9 @@
 <p>
   <a href="https://www.linkedin.com/in/devesh-agarwal-link8421/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Devesh Agarwal - Linkedin" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:agarwaldevesh326@gmail.com?subject=Hello%20Devesh,%20From%20Github" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" alt="Devesh Agarwal - Gmail" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/agarwaldevesh326/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="agarwaldevesh326" height="30" width="25" /></a>
 <a href="https://www.codechef.com/users/devesh_16" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="devesh_16" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/agarwaldevesh326/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="agarwaldevesh326" height="30" width="25" /></a>
+
 </p>
 
 
