@@ -7,8 +7,7 @@
 <br />
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/devesh-agarwal-link8421/" target="blank"><img align="center" src="![image](https://github.com/Devesh326/Devesh326/assets/76838871/aadf9cad-1663-4198-8aed-21e3e78be444)
-" alt="devesh_1611" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/devesh-agarwal-link8421/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Devesh Agarwal" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/devesh_16" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42518907/187090767-7c086a66-394d-483a-a721-dc56ab4d7940.png" alt="devesh_16" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/agarwaldevesh326/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="agarwaldevesh326" height="30" width="25" /></a>
 </p>
